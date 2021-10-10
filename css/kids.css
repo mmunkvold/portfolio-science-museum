@@ -1,0 +1,9 @@
+.header-content {
+  background: url("/images/headers/kids.jpg") #547aa5;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.header-text {
+  background: #386ca3;
+}

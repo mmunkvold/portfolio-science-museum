@@ -1,0 +1,15 @@
+.header-content {
+  background: url("/images/headers/search.jpg") #547aa5;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  margin-left: 1em;
+}
+
+.header-text {
+  background: #1b75bc;
+  padding: 0.2em;
+}

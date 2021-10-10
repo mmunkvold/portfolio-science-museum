@@ -1,0 +1,22 @@
+.header-content {
+  background: url("/images/headers/special_events.jpg") #547aa5;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.header-text {
+  background: #eed1e7;
+  color: #555;
+}
+
+/* =======================
+      Media Queries 
+==========================*/
+
+@media (min-width: 600px) {
+  .header-text {
+    margin-left: 4em;
+    padding: 0.2em 0.5em 0.4em;
+  }
+}
